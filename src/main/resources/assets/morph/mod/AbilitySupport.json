@@ -2050,11 +2050,11 @@
   "net.minecraft.entity.passive.EntityBat": [
     "fly|true"
   ],
-  "net.minecraft.entity.monster.EntityBlaze": [
-    "fly|false",
-    "fireImmunity",
-    "waterAllergy",
-    "hostile"
+  "tropicraft.entity.passive.EntityMarlin": [
+    "swim"
+  ],
+  "twilightforest.entity.passive.EntityFishPufferfish": [
+    "fly|true"
   ],
   "net.minecraft.entity.monster.EntityCaveSpider": [
     "climb",
@@ -2146,5 +2146,5 @@
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
-  ]
+  ],
 }
